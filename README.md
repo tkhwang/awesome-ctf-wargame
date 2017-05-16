@@ -10,6 +10,12 @@ The corresponding ctf problem and wargame will be curated based on each required
 
 ### Format String
 
+#### Arbitrary memory read
+
+#### Direct Parameter Access (`n$`)
+
+#### Arbitrary memory write
+
 
 ### ROP (Return Oriented Programming)
 
